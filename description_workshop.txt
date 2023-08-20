@@ -1,0 +1,9 @@
+Small mod that adds two new armour sets.
+
+Both of them share the same effects of the mining set (with Ultrabright Helmet), but have increased defense to scale with enemies in hardmode.
+
+The Advanced Mining Set takes the original Mining Set (with Ultrabright Helmet, instead of Mining Helmet) plus some Granite and Silk to create.
+
+The Shroomite Digging Set takes the Advanced Mining Set and some Shroomite Bars, along with some Souls of Sight for the helmet.
+
+Credit to my mate [url=https://steamcommunity.com/profiles/76561198345187182] Dororo [/url] for the Russian localization files <3

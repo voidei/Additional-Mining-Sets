@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdeyrTj+EjJKI5yl9Gh9mLkEs8VwXrOaGJmGH8I+8g8aoy2wo+CIVkRUvcuNIc/G2wNeC3DHo9MU332XmABq7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nosir\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AdditionalMiningSets\\AdditionalMiningSets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nosir\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

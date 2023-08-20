@@ -1,0 +1,37 @@
+MiningHatT2: {
+	DisplayName: Advanced Mining Helmet
+	Tooltip:
+		'''
+		Improves vision and provides light when worn
+		'The darkness holds no secrets for you'
+		'''
+}
+
+MiningPantsT2: {
+	DisplayName: Advanced Mining Pants
+	Tooltip: 10% increased mining speed
+}
+
+MiningShirtT2: {
+	DisplayName: Advanced Mining Shirt
+	Tooltip: 10% increased mining speed
+}
+
+MiningHatT3: {
+	DisplayName: Shroomite Digging Helmet
+	Tooltip:
+		'''
+		Improves vision and provides light when worn
+		'The darkness holds no secrets for you'
+		'''
+}
+
+MiningPantsT3: {
+	DisplayName: Shroomite Digging Pants
+	Tooltip: 10% increased mining speed
+}
+
+MiningShirtT3: {
+	DisplayName: Shroomite Digging Shirt
+	Tooltip: 10% increased mining speed
+}

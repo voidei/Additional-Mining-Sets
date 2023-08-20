@@ -1,0 +1,7 @@
+displayName = Additional Mining Sets
+author = voidei
+version = 0.1.2
+buildIgnore = .vs\*, Properties\*, *.csproj, *.user, obj\*, bin\*, *.config, .git\*, *.vssettings, Old\*
+hideCode = false
+hideResources = false
+includePDB = true
