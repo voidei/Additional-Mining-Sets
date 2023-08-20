@@ -1,1 +1,3 @@
-added russian localization
+Updated file structure a bit and added github repo
+
+https://github.com/voidei/Additional-Mining-Sets
